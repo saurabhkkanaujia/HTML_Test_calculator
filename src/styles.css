@@ -1,27 +1,29 @@
 .calc {
-    height: 520px;
-    width: 416px;
+  height: 511px;
+  width: 408px;
   background-color: #808080 ;
   text-align: center;
 }
 #zero {
   height: 100px;
-  background-color: #404040 ;
+  background-color: #2D2D36 ;
   color: white;
+  border-top-left-radius: 22px;
+  border-top-right-radius: 22px;
 
 }
 .float_left1 {
-    border: 2px solid black;
+    border: 1px solid black;
   float: left;
   width: 100px;
   height: 80px;
-  background-color: #585858  !important;
+  background-color: #414149  !important;
   font-size: 40px;
   color: white;
 
 }
 .float_left2 {
-    border: 2px solid black;
+    border: 1px solid black;
   float: left;
   width: 100px;
   height: 80px;
@@ -30,7 +32,7 @@
   font-size: 40px;
 }
 .float_left3 {
-    border: 2px solid black;
+    border: 1px solid black;
   float: left;
   width: 100px;
   font-size: 40px;
@@ -38,7 +40,7 @@
   height: 80px;
 }
 #acac1 {
-  width: 204px;
+  width: 202px;
 }
 
 #lower {
@@ -51,7 +53,7 @@
     background-color: #FF8C00 !important;
 }
 .light{
-    background-color: #808080 !important;
+    background-color: #616269 !important;
 }
 li{
     float: left;
